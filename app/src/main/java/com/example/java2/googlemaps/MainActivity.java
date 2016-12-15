@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
     private final String TAG="tralala";
     private LocationManager lm;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
